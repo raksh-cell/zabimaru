@@ -10,7 +10,7 @@ Zabimaru is a sleek and addictive **Flutter-based arcade app** that brings toget
   - 🧱 Brick Breaker (Classic paddle + ball)
   - ✊ Rock Paper Scissors (AI-powered battle)
   - ❌ Tic Tac Toe (2-player & AI mode)
-  - 🐍 Snake Game(eat food + survive)
+  - 🐍 Snake Game(Eat food + survive)
   - ⛏️ Minesweeper (Grid logic puzzle)
   - 🐦 Flappy Ball (Tap-to-fly madness)
   - 🟣 Tap the Dot (Reflex tester)
